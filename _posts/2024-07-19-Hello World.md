@@ -26,7 +26,7 @@ However, you could win her over with the following snacks:
   4. Beef
 
 
-Buy [here](goodmaomifood.com) or also at <nyanyanmeowfoody.com>.
+Buy [here](https://goodmaomifood.com) or also at <https://nyanyanmeowfoody.com>.
 
 ## Section 2
 
