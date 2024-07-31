@@ -9,4 +9,4 @@ image: event/euretina/1_Medivista in Euretina 2024.jpg
 
 # Introduction
 
-![Event Marketing Plan Content](event/euretina/2_Event Marketing Plan Content)
+![Event Marketing Plan Content](event/euretina/2_Event Marketing Plan Content.jpg)
