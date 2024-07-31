@@ -7,3 +7,6 @@ description: Medivista AG, a fictional startup founded in 2024 in Lausanne, prov
 image: event/1_Medivista in Euretina 2024.jpg
 ---
 
+# Introduction
+
+image: event/2_Event Makreting Plan Content
