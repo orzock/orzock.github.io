@@ -1,8 +1,8 @@
 ---
-title: Event Marketing Plan for EURETINA 2024
+title: How to Prepare a SaaS AI Startup to Trade Show Abroad- Event Marketing Plan Demonstration for a Fictional AI Medtech Startup Based in Switzerland
 date: 2024-07-31
 categories: [Event Marketing]
-tags: [event marketing, b2b, trade show] #TAG names should always be lowercase
+tags: [event marketing, outbound marketing, trade show] #TAG names should always be lowercase
 description: Medivista AG, a pioneering (and fictional) startup founded in 2024 in Lausanne, specializes in cutting-edge AI-powered medical image analysis and patient profile management services. As a B2B Event Manager, I’ll showcase my strategies at Euretina 2024 to amplify our presence in the ophthalmology sector, detailing our meticulous event marketing management plan to ensure a powerful impact.
 image: event/euretina/1_Medivista in Euretina 2024.jpg
 ---
@@ -10,6 +10,12 @@ image: event/euretina/1_Medivista in Euretina 2024.jpg
 Quote: *"Seeing beyond, understanding within."* - Medivista company motto
 
 # Introduction
+
+Event marketing, an outbound marketing method which allows companies to proactively reach out potentional clients; according to the nature of each trade show, a company could employ different strategies and tactics to achieve goals such as raising brand awareness, generating new leads, and expanding business scope. Therefore, it is essential for B2B marketers to curate and execute an end-to-end marketing plan for trade shows with meticulous preparation; that said, including goals and strategies, venue booking and setup, budget plan, and pre-engagement and post-engagement.
+
+Today, I would like to demonstrate my approaches of preparing a fictional SaaS startup in Medtech to one of the biggest event in the industry.
+
+# Background Setting
 
 Medivista AG, a pioneering fictional startup founded in 2024 in Lausanne, offers advanced AI-powered medical image analysis for neurological diseases and patient profile management services.
 
@@ -19,7 +25,7 @@ EURETINA is the leading European society for specialists in vitreoretinal diseas
 
 For an AI startup like Medivista, EURETINA provides a crucial platform to network with potential clients and partners, gain insights into current clinical needs, and showcase how AI solutions can enhance retinal disease diagnosis and management.
 
-Assume that we are the begining of 2024 and would like to allocate CHF 4,5000 to EURETINA. My event marketing plan would deploy as the content below:
+Assume that we are at the begining of 2024 and would like to allocate CHF 4,5000 to EURETINA. My event marketing plan would deploy as the content below:
 
 ![Event Marketing Plan Content](event/euretina/2_Event Marketing Plan Content.jpg)
 
