@@ -31,15 +31,15 @@ Assume that we are at the begining of 2024 and would like to allocate **CHF 4,50
 
 # 0.1 Presence Strategy & Point of Contact
 Since Medivista is a pretty young startup, the goal of our presence in EURETINA would focus on the following aspects:
-- **Product showcase & demonstration:** Highlight MedInsight AI® through demonstration videos, brochures, and in-person demos, incorporating success stories to illustrate its benefits.
+## **Product showcase & demonstration:** Highlight MedInsight AI® through demonstration videos, brochures, and in-person demos, incorporating success stories to illustrate its benefits.
 
-- **Brand building:** Raise brand awareness using the company motto “Seeing Beyond, Understanding Within” on social media platforms like LinkedIn. Emphasize the company’s commitment to ophthalmology and its expansion into neurodegenerative, vascular, and rare diseases.
+## **Brand building:** Raise brand awareness using the company motto “Seeing Beyond, Understanding Within” on social media platforms like LinkedIn. Emphasize the company’s commitment to ophthalmology and its expansion into neurodegenerative, vascular, and rare diseases.
 
-- **Networking & business meeting:** Schedule meetings with potential partners and investors, and participate in forums to showcase the company’s expertise and innovation in the field.
+## **Networking & business meeting:** Schedule meetings with potential partners and investors, and participate in forums to showcase the company’s expertise and innovation in the field.
 
-- **Pre-event promotion:** Increase Medvista’s presence leading up to EURETINA 2024 through press releases, email marketing, and social media campaigns. Focus on success stories, the application of MedInsight AI® in new medical domains, and the latest developments in AI healthcare related to ophthalmology and other target areas.
+## **Pre-event promotion:** Increase Medvista’s presence leading up to EURETINA 2024 through press releases, email marketing, and social media campaigns. Focus on success stories, the application of MedInsight AI® in new medical domains, and the latest developments in AI healthcare related to ophthalmology and other target areas.
 
-- **Leads management:** Collect and manage contacts during the event. Follow up with potential partners and clients by sending industry updates related to Medvista’s services and products, ensuring continuous communication and strengthening relationships.
+## **Leads management:** Collect and manage contacts during the event. Follow up with potential partners and clients by sending industry updates related to Medvista’s services and products, ensuring continuous communication and strengthening relationships.
 
 As for the point of contact, I would arrange a list the candidate list of vendors and point of contact within the company Medivista as shown in the table below:
 
