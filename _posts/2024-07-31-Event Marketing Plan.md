@@ -15,13 +15,13 @@ Event marketing, an outbound marketing method which allows companies to proactiv
 
 Today, I would like to demonstrate my approaches of preparing a fictional SaaS startup in Medtech to one of the biggest event in the industry.
 
-## Fictional Company
+## Fictional Company and Background Setting
 
 **Medivista AG**, a pioneering fictional startup founded in 2024 in Lausanne, offers advanced AI-powered medical image analysis for neurological diseases and patient profile management services.
 
 As a thriving company, we are eager to raise brand awareness and build solid credibility for our product: MedInsight AI. This platform gathers and analyzes medical images using cutting-edge AI algorithms for early lesion detection while maintaining patient profiles.
 
-### Target Trade Show: EURETINA 2024
+## Target Trade Show: EURETINA 2024
 
 EURETINA is the leading European society for specialists in vitreoretinal diseases, hosting an annual congress that showcases the latest advancements in retinal care. This exhibition brings together ophthalmologists, researchers, and industry professionals to share knowledge, present cutting-edge research, and demonstrate innovative technologies in retinal diagnostics and treatments.
 
