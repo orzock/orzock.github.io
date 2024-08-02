@@ -1,5 +1,5 @@
 ---
-title: "Cracking the Code: Marketing a Swiss SaaS AI Medtech Startup at Global Trade Shows"
+title: "Marketing an AI Startup at Global Trade Shows: a MedTech Case Study"
 date: 2024-07-31
 categories: [Event Marketing]
 tags: [event marketing, outbound marketing, trade show] #TAG names should always be lowercase
