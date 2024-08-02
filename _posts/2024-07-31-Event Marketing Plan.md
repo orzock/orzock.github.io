@@ -3,7 +3,7 @@ title: "Cracking the Code: Marketing a Swiss SaaS AI Medtech Startup at Global T
 date: 2024-08-02
 categories: [Event Marketing]
 tags: [event marketing, outbound marketing, trade show] #TAG names should always be lowercase
-description: Medivista AG, a pioneering (and fictional) startup founded in 2024 in Lausanne, specializes in cutting-edge AI-powered medical image analysis and patient profile management services. As a B2B Event Manager, I’ll showcase my strategies at Euretina 2024 to amplify our presence in the ophthalmology sector, detailing our meticulous event marketing management plan to ensure a powerful impact.
+description: Medivista AG, a pioneering fictional startup founded in 2024 in Lausanne, specializes in cutting-edge AI-powered medical image analysis and patient profile management services. As a B2B Event Manager, I will showcase my strategies at EURETINA 2024 to amplify our presence in the ophthalmology sector. This blog details our meticulous event marketing plan to ensure a powerful impact.
 image: event/euretina/1_Medivista in Euretina 2024.jpg
 ---
 
@@ -11,15 +11,16 @@ Quote: *"Seeing beyond, understanding within."* - Medivista company motto
 
 ## Introduction
 
-Event marketing, an outbound marketing method which allows companies to proactively reach out potentional clients; according to the nature of each trade show, a company could employ different strategies and tactics to achieve goals such as raising brand awareness, generating new leads, and expanding business scope. Therefore, it is essential for B2B marketers to curate and execute an end-to-end marketing plan for trade shows with meticulous preparation; that said, including goals and strategies, venue booking and setup, budget plan, and pre-engagement and post-engagement.
+Event marketing, an outbound marketing method, allows companies to proactively reach potential clients. Depending on the nature of each trade show, a company can employ different strategies to achieve goals such as raising brand awareness, generating new leads, and expanding business scope. For B2B marketers, it is essential to curate and execute an end-to-end marketing plan for trade shows, including goals and strategies, venue booking and setup, budget planning, and pre- and post-event engagement.
 
-Today, I would like to demonstrate my approaches of preparing a fictional SaaS startup in Medtech to one of the biggest event in the industry.
+Today, I will demonstrate my approach to preparing a fictional SaaS Medtech startup for one of the industry's biggest events.
 
 ## Fictional Company and Background Setting
 
+
 **Medivista AG**, a pioneering fictional startup founded in 2024 in Lausanne, offers advanced AI-powered medical image analysis for neurological diseases and patient profile management services.
 
-As a thriving company, we are eager to raise brand awareness and build solid credibility for our product: MedInsight AI. This platform gathers and analyzes medical images using cutting-edge AI algorithms for early lesion detection while maintaining patient profiles.
+As a thriving company, we are eager to raise brand awareness and build credibility for our product, MedInsight AI. This platform uses cutting-edge AI algorithms to gather and analyze medical images for early lesion detection while maintaining patient profiles.
 
 ## Target Trade Show: EURETINA 2024
 
@@ -29,12 +30,14 @@ This year, EURETINA will be held in **Barcelona** from **19 - 22 September**.
 
 For an AI startup like Medivista, EURETINA provides a crucial platform to network with potential clients and partners, gain insights into current clinical needs, and showcase how AI solutions can enhance retinal disease diagnosis and management.
 
-Assume that we are at the begining of 2024 and would like to allocate **CHF 4,5000** to EURETINA. My event marketing plan would deploy as the content below:
+Assuming we are at the beginning of 2024 and would like to allocate **CHF 45,000** to EURETINA, my event marketing plan will include the following:
 
 ![Event Marketing Plan Content](event/euretina/2_Event Marketing Plan Content.jpg)
 
 ## 0.1 Presence Strategy & Point of Contact
-Since Medivista is a pretty young startup, the goal of our presence in EURETINA would focus on the following aspects:
+
+Since Medivista is a young startup, our goals for attending EURETINA will focus on the following aspects:
+
 - **Product showcase & demonstration:** Highlight MedInsight AI® through demonstration videos, brochures, and in-person demos, incorporating success stories to illustrate its benefits.
 
 - **Brand building:** Raise brand awareness using the company motto “Seeing Beyond, Understanding Within” on social media platforms like LinkedIn. Emphasize the company’s commitment to ophthalmology and its expansion into neurodegenerative, vascular, and rare diseases.
@@ -45,17 +48,20 @@ Since Medivista is a pretty young startup, the goal of our presence in EURETINA 
 
 - **Leads management:** Collect and manage contacts during the event. Follow up with potential partners and clients by sending industry updates related to Medvista’s services and products, ensuring continuous communication and strengthening relationships.
 
-As for the point of contact, I would arrange a list the candidate list of vendors and point of contact within the company Medivista as shown in the table below:
+To ensure a successful trade show, I will arrange a list of potential vendors, including those for booth design, setup and teardown, marketing material printing, and logistics. Internally, I will coordinate with the sales team, R&D, and the PM department to align our positioning and messaging for the event. Below is a table detailing the points of contact (POC):
 
 ![Event Marketing Plan Content](event/euretina/POC.jpg)
 
 ## 0.2 Preparation Timeline
-The overall preparation could take 4-8 months dependts on the event scale and manpower in the marketing team for coordination. In this case, as the only marketer to prepare for the trade show participation, I would kick off my planning process 6-7 months in advance in order to have more buffer.
+
+In general, the preparation of exhibiting in a trade show could take 4-8 months long; it dependts on the event scale and manpower in the marketing team for coordination. In the case of EURETINA 2024, as the only marketer to prepare for the trade show participation, I would kick off my planning process 6-7 months in advance in order to have more buffer.
 
 ![Event Marketing Plan Content](event/euretina/timeline.jpg)
 
 ## 0.3 Budget Plan
+
 Before 
+
 ![Event Marketing Plan Content](event/euretina/registration_fee.jpg)
 
 ![Event Marketing Plan Content](event/euretina/budget_plan.jpg)
