@@ -1,6 +1,6 @@
 ---
 title: "Cracking the Code: Marketing a Swiss SaaS AI Medtech Startup at Global Trade Shows"
-date: 2024-08-02
+date: 2024-07-31
 categories: [Event Marketing]
 tags: [event marketing, outbound marketing, trade show] #TAG names should always be lowercase
 description: Medivista AG, a pioneering fictional startup founded in 2024 in Lausanne, specializes in cutting-edge AI-powered medical image analysis and patient profile management services. As a B2B Event Manager, I will showcase my strategies at EURETINA 2024 to amplify our presence in the ophthalmology sector. This blog details our meticulous event marketing plan to ensure a powerful impact.
@@ -54,15 +54,19 @@ To ensure a successful trade show, I will arrange a list of potential vendors, i
 
 ## 0.2 Preparation Timeline
 
-In general, the preparation of exhibiting in a trade show could take 4-8 months long; it dependts on the event scale and manpower in the marketing team for coordination. In the case of EURETINA 2024, as the only marketer to prepare for the trade show participation, I would kick off my planning process 6-7 months in advance in order to have more buffer.
+Trade show preparation typically takes 4-8 months, depending on the event's scale and the marketing team's size. For EURETINA 2024, as the sole marketer responsible for the exhibition, I would initiate planning 6-7 months in advance to ensure adequate preparation time.
 
 ![Event Marketing Plan Content](event/euretina/timeline.jpg)
 
 ## 0.3 Budget Plan
 
-Before 
+Before official registration details are available, I would research past event brochures, review previous trade show budgets, and consult colleagues and my line manager for feedback on initial budget drafts. Given Medvista's recent founding, I'll examine last year's EURETINA registration information for guidance.
 
 ![Event Marketing Plan Content](event/euretina/registration_fee.jpg)
+
+While registration fees are fixed, booth rental and design costs vary by size. To effectively showcase MedInsight AI, our AI-powered medical image analysis and patient profile management platform, we'll prioritize live demonstrations and success story testimonials. This approach necessitates an attractive booth, so I propose allocating 60% of our budget to the physical venue environment.
+
+The remaining budget would be divided between marketing materials (15%) and on-site staff expenses (25%). As we'll be traveling from Switzerland to Spain, this includes transportation, accommodation, and meals. A detailed budget breakdown follows in the table below.
 
 ![Event Marketing Plan Content](event/euretina/budget_plan.jpg)
 
