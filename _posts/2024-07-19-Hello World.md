@@ -2,7 +2,7 @@
 title: Hello World
 date: 2024-07-19
 categories: [Account Based Marketing]
-tags: [account based marketing, b2b mkt] #TAG names should always be lowercase
+tags: [account based marketing] #TAG names should always be lowercase
 description: This is a test description. Just for testing ^^
 image: Miele.jpg
 ---
