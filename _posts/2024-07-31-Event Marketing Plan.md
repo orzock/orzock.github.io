@@ -30,7 +30,13 @@ Assume that we are at the begining of 2024 and would like to allocate **CHF 4,50
 ![Event Marketing Plan Content](event/euretina/2_Event Marketing Plan Content.jpg)
 
 # 0.1 Presence Strategy & Point of Contact
-As the single event owner, the 
+Since Medivista is a pretty young startup, the goal of our presence in EURETINA would focus on the following aspects:
+	**1. Product showcase & demonstration**
+	**2. Brand building**
+	**3. Networking & business meeting**
+	**4. Pre-event promotion**
+	**5. Leads management**
+
 
 ![Event Marketing Plan Content](event/euretina/3_Presence Strategy & POC 1.jpg)
 
