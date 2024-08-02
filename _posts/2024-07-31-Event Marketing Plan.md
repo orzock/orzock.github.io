@@ -76,4 +76,4 @@ Finally, before the event, I would also apply some tactics of omnichannel market
 
 An example of social media post with visual element would look like this:
 
-![Event Marketing Plan Content](event/euretina/7_Sample Ad.jpg)
+![Event Marketing Plan Content](event/euretina/sample_ad.jpg)
