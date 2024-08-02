@@ -35,7 +35,7 @@ Since Medivista is a pretty young startup, the goal of our presence in EURETINA 
 	**2. Brand building**
 	**3. Networking & business meeting**
 	**4. Pre-event promotion**
-	**5. Leads management**
+	5. Leads management
 
 
 ![Event Marketing Plan Content](event/euretina/3_Presence Strategy & POC 1.jpg)
