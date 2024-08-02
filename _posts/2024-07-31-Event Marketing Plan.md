@@ -43,7 +43,7 @@ Since Medivista is a pretty young startup, the goal of our presence in EURETINA 
 
 As for the point of contact, I would arrange a list the candidate list of vendors and point of contact within the company Medivista as shown in the table below:
 
-![Event Marketing Plan Content](event/euretina/POC of event presence.jpg)
+![Event Marketing Plan Content](event/euretina/POC.jpg)
 
 # 0.2 Preparation Timeline
 The overall preparation could take 4-8 months dependts on the event scale and manpower in the marketing team for coordination. In this case, as the only marketer to prepare for the trade show participation, I would kick off my planning process 6-7 months in advance in order to have more buffer.
