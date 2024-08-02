@@ -72,4 +72,8 @@ The remaining budget would be divided between marketing materials (15%) and on-s
 
 ## 0.4 Sample Ad/ Social Media Post
 
+Finally, before the event, I would also apply some tactics of omnichannel marketing to promote our presence at EURETINA and implement call-to-action for audiences to interact with our post on social media, meet us in person, and even arrange a business meeting with us.
+
+An example of social media post with visual element would look like this:
+
 ![Event Marketing Plan Content](event/euretina/7_Sample Ad.jpg)
