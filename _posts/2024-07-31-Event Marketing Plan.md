@@ -17,15 +17,15 @@ Today, I would like to demonstrate my approaches of preparing a fictional SaaS s
 
 # Background Setting
 
-Medivista AG, a pioneering fictional startup founded in 2024 in Lausanne, offers advanced AI-powered medical image analysis for neurological diseases and patient profile management services.
+**Medivista AG**, a pioneering fictional startup founded in 2024 in Lausanne, offers advanced AI-powered medical image analysis for neurological diseases and patient profile management services.
 
 As a thriving company, we are eager to raise brand awareness and build solid credibility for our product: MedInsight AI. This platform gathers and analyzes medical images using cutting-edge AI algorithms for early lesion detection while maintaining patient profiles.
 
-EURETINA is the leading European society for specialists in vitreoretinal diseases, hosting an annual congress that showcases the latest advancements in retinal care. This exhibition brings together ophthalmologists, researchers, and industry professionals to share knowledge, present cutting-edge research, and demonstrate innovative technologies in retinal diagnostics and treatments. 
+**EURETINA** is the leading European society for specialists in vitreoretinal diseases, hosting an annual congress that showcases the latest advancements in retinal care. This exhibition brings together ophthalmologists, researchers, and industry professionals to share knowledge, present cutting-edge research, and demonstrate innovative technologies in retinal diagnostics and treatments. This year, EURETINA will be held in **Barcelona** from **19 - 22 September**.
 
 For an AI startup like Medivista, EURETINA provides a crucial platform to network with potential clients and partners, gain insights into current clinical needs, and showcase how AI solutions can enhance retinal disease diagnosis and management.
 
-Assume that we are at the begining of 2024 and would like to allocate CHF 4,5000 to EURETINA. My event marketing plan would deploy as the content below:
+Assume that we are at the begining of 2024 and would like to allocate **CHF 4,5000** to EURETINA. My event marketing plan would deploy as the content below:
 
 ![Event Marketing Plan Content](event/euretina/2_Event Marketing Plan Content.jpg)
 
