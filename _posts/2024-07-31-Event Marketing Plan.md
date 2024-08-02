@@ -1,6 +1,6 @@
 ---
 title: "Cracking the Code: Marketing a Swiss SaaS AI Medtech Startup at Global Trade Shows"
-date: 2024-07-31
+date: 2024-08-02
 categories: [Event Marketing]
 tags: [event marketing, outbound marketing, trade show] #TAG names should always be lowercase
 description: Medivista AG, a pioneering (and fictional) startup founded in 2024 in Lausanne, specializes in cutting-edge AI-powered medical image analysis and patient profile management services. As a B2B Event Manager, I’ll showcase my strategies at Euretina 2024 to amplify our presence in the ophthalmology sector, detailing our meticulous event marketing management plan to ensure a powerful impact.
@@ -31,15 +31,15 @@ Assume that we are at the begining of 2024 and would like to allocate **CHF 4,50
 
 ## 0.1 Presence Strategy & Point of Contact
 Since Medivista is a pretty young startup, the goal of our presence in EURETINA would focus on the following aspects:
-### **Product showcase & demonstration:** Highlight MedInsight AI® through demonstration videos, brochures, and in-person demos, incorporating success stories to illustrate its benefits.
+- **Product showcase & demonstration:** Highlight MedInsight AI® through demonstration videos, brochures, and in-person demos, incorporating success stories to illustrate its benefits.
 
-### **Brand building:** Raise brand awareness using the company motto “Seeing Beyond, Understanding Within” on social media platforms like LinkedIn. Emphasize the company’s commitment to ophthalmology and its expansion into neurodegenerative, vascular, and rare diseases.
+- **Brand building:** Raise brand awareness using the company motto “Seeing Beyond, Understanding Within” on social media platforms like LinkedIn. Emphasize the company’s commitment to ophthalmology and its expansion into neurodegenerative, vascular, and rare diseases.
 
-### **Networking & business meeting:** Schedule meetings with potential partners and investors, and participate in forums to showcase the company’s expertise and innovation in the field.
+- **Networking & business meeting:** Schedule meetings with potential partners and investors, and participate in forums to showcase the company’s expertise and innovation in the field.
 
-### **Pre-event promotion:** Increase Medvista’s presence leading up to EURETINA 2024 through press releases, email marketing, and social media campaigns. Focus on success stories, the application of MedInsight AI® in new medical domains, and the latest developments in AI healthcare related to ophthalmology and other target areas.
+- **Pre-event promotion:** Increase Medvista’s presence leading up to EURETINA 2024 through press releases, email marketing, and social media campaigns. Focus on success stories, the application of MedInsight AI® in new medical domains, and the latest developments in AI healthcare related to ophthalmology and other target areas.
 
-### **Leads management:** Collect and manage contacts during the event. Follow up with potential partners and clients by sending industry updates related to Medvista’s services and products, ensuring continuous communication and strengthening relationships.
+- **Leads management:** Collect and manage contacts during the event. Follow up with potential partners and clients by sending industry updates related to Medvista’s services and products, ensuring continuous communication and strengthening relationships.
 
 As for the point of contact, I would arrange a list the candidate list of vendors and point of contact within the company Medivista as shown in the table below:
 
@@ -51,8 +51,10 @@ The overall preparation could take 4-8 months dependts on the event scale and ma
 ![Event Marketing Plan Content](event/euretina/timeline.jpg)
 
 ## 0.3 Budget Plan
+Before 
+![Event Marketing Plan Content](event/euretina/registration_fee.jpg)
 
-![Event Marketing Plan Content](event/euretina/6_Budget plan.jpg)
+![Event Marketing Plan Content](event/euretina/budget_plan.jpg)
 
 ## 0.4 Sample Ad/ Social Media Post
 
