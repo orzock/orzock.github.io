@@ -32,7 +32,7 @@ For an AI startup like Medivista, EURETINA provides a crucial platform to networ
 
 Assuming we are at the beginning of 2024 and would like to allocate **CHF 45,000** to EURETINA, my event marketing plan will include the following:
 
-![Event Marketing Plan Content](event/euretina/2_Event Marketing Plan Content.jpg)
+![Event Marketing Plan Content](event/euretina/2.jpg)
 
 ## 0.1 Presence Strategy & Point of Contact
 
