@@ -11,6 +11,6 @@ Having no academic background nor any systematic training, my biggest fears in d
 
 Sometimes the punch of reality could be hard to take. "But, hey," I tell myself, "if you are able to speak 4 language, survived cancer, and were brave enough to break out your comfort zone and build a life in Europe from scratch (in 2 countries!), girl, you'll be just fine."
 
-Dont' know about marketing? Just learn about it.
+Don't know about marketing? Start learning today!
 
 This is why I started this blog where I plan to share my thoughts on marketing, experiences leanring from mentors, and case studies I conduct. Come explore actionable insights, data-driven strategies, and real-world case studies in B2B marketing. Join me to discover innovative approaches, industry trends, and best practices that drive business growth and engagement!
