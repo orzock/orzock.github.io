@@ -4,6 +4,7 @@ date: 2024-08-19
 categories: [Product Marketing]
 tags: [product marketing, interview] #TAG names should always be lowercase
 image: pmm/interview/cover.jpg
+comments: true
 ---
 
 Quote: *" (...) Falling with style."* - Woody, Toy Story
