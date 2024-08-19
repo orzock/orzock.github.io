@@ -13,4 +13,4 @@ Sometimes the punch of reality could be hard to take. "But, hey," I tell myself,
 
 Don't know about marketing? Start learning today!
 
-This is why I started this blog where I plan to share my thoughts on marketing, experiences leanring from mentors, and case studies I conduct. Come explore actionable insights, data-driven strategies, and real-world case studies in B2B marketing. Join me to discover innovative approaches, industry trends, and best practices that drive business growth and engagement!
+This is why I started this blog where I plan to share my thoughts on marketing, experiences learning from mentors, and case studies I conduct. Come explore actionable insights, data-driven strategies, and real-world case studies in B2B marketing. Join me to discover innovative approaches, industry trends, and best practices that drive business growth and engagement!
