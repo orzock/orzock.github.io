@@ -108,6 +108,7 @@ To improve my case study performance, she suggested focusing on the following as
 
 I am genuinely grateful for her feedback. Her guidance was like a lighthouse, showing me the direction I need to take to overcome my shortcomings. The feedback helped me confront my fear of making mistakes and encouraged me to trust my instincts and be more confident. It also clarified the purpose of a timed case study interview and offered actionable suggestions to improve my skills for future interviews.
 
+![PMM Case Study](pmm/interview/improvement.png)
 
 ## Apply the Lessons
 
@@ -116,7 +117,7 @@ Now that I realize the obstacles that slow me down in landing my dream job, I kn
 
 ### I. To organize my thoughts and present them cohesively.
 
-- Use frameworks like the *STAR* (Situation, Task, Action, Result) or *MECE* (Mutually Exclusive, Collectively Exhaustive) to organize my thoughts.
+- Use frameworks like the **STAR** (Situation, Task, Action, Result) or **MECE** (Mutually Exclusive, Collectively Exhaustive) to organize my thoughts.
 
 - **Mind mapping** what I want to say to ensure that my ideas flow logically.
 
@@ -124,10 +125,8 @@ Now that I realize the obstacles that slow me down in landing my dream job, I kn
 
 - Reading more case studies and learn from their logic.
 
-![PMM Case Study](pmm/interview/improvement.png)
 
-
-### To be quick on making high-level and concise summaries.
+### II. To be quick on making high-level and concise summaries.
 
 - Practice the **elevator pitch** technique, summarizing complex concepts in 30 seconds.
 
@@ -138,7 +137,7 @@ Now that I realize the obstacles that slow me down in landing my dream job, I kn
 - **Active reading and listening** by actively thinking about what the core message is and how I would explain to others in a few sentences. 
 
 
-### To cultivate a more accurate instinct for marketing operations.
+### III. To cultivate a more accurate instinct for marketing operations.
 
 - Stay updated and **regularly review  marketing case studies** to understand different strategies and their outcomes.
 
