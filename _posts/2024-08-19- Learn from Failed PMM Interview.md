@@ -33,7 +33,7 @@ The recruiting process includes 3 parts:
 
 In the case study phase, I encountered scenarios such as launching new product features, collecting and analyzing competitive intelligence, and assessing client cohorts. The interview lasted for about an hour and a half. I spent the first half thinking and organizing my thoughts on each question, and the second half presenting them to the interviewers.
 
-![PMM Case Study](pmm/interview/case_study.jpg)
+![PMM Case Study](pmm/interview/case_study.png)
 
 
 ### Realm of Case Study 
@@ -124,7 +124,7 @@ Now that I realize the obstacles that slow me down in landing my dream job, I kn
 
 - Reading more case studies and learn from their logic.
 
-![PMM Case Study](pmm/interview/improvement.jpg)
+![PMM Case Study](pmm/interview/improvement.png)
 
 
 ### To be quick on making high-level and concise summaries.
